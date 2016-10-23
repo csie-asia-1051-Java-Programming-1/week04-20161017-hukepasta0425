@@ -26,9 +26,9 @@ public class hw03_105021031 {
 					x++;
 				}
 			}
-			System.out.println("¥¿¼Æ"+x+"­Ó");
-			System.out.println("0¦³"+y+"­Ó");
-			System.out.println("­t¼Æ"+z+"­Ó");
+			System.out.println("æ­£æ•¸"+x+"å€‹");
+			System.out.println("0æœ‰"+y+"å€‹");
+			System.out.println("è² æ•¸"+z+"å€‹");
 	}
 
 }

@@ -17,9 +17,10 @@ public class ex04_105021031 {
 		// TODO Auto-generated method stub
 		Scanner src = new Scanner(System.in);
 		int n = src.nextInt();
+		String a=src.next();
 		for (int i = 1; i <= n; i++) {
 			for (int j = n; j >=i; j--) {
-				System.out.print("*");
+				System.out.print(a);
 			}
 			System.out.println();
 		}
